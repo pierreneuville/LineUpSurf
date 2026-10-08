@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "slug": "hurricane-polo-cabo",
+  "status": "published",
+  "publishedAt": "2026-10-01",
+  "eventAt": "2026-09-25",
+  "category": "waves",
+  "location": "Cabo San Lucas, Baja California Sur, Mexico",
+  "editorialScore": 91,
+  "sources": [
+    {
+      "label": "National Hurricane Center — Polo reaches Category 5",
+      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCUEP2+shtml/251250.shtml"
+    },
+    {
+      "label": "National Hurricane Center — life-threatening surf warning",
+      "url": "https://www.nhc.noaa.gov/archive/2026/ep17/ep172026.public.036.shtml"
+    },
+    {
+      "label": "SURFER — giant Polo swell beside Cabo's Arch",
+      "url": "https://www.surfer.com/news/hurricane-polo-cabo-san-lucas-big-wave"
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "Polo tore through Cabo's postcard",
+      "dek": "A Category 5 hurricane sent a serious pulse of swell into Baja and turned one of Mexico's most familiar coastlines into something raw, heavy and briefly unrecognisable.",
+      "body": [
+        "Cabo is usually sold through the same images: bright sun, boats in the bay, cold drinks and the Arch sitting quietly at the end of the peninsula. Then Polo arrived. On September 25, the National Hurricane Center estimated winds at 180 mph while the hurricane was still south of Baja. Soon after, that energy started showing up at the coast.",
+        "Around Cabo San Lucas, footage showed thick right-hand waves detonating beside the Arch. It looked spectacular, but not inviting: shallow rock, powerful current and a huge amount of moving water. As Polo crossed Baja and moved toward Sonora, the NHC was still warning about life-threatening surf, rip currents and coastal flooding.",
+        "That contrast is what made the week memorable. Cabo did not stop being beautiful; it just stopped looking tame. For a few days, the holiday backdrop gave way to the other side of the Pacific — powerful, unpredictable and best watched with a little humility."
+      ]
+    },
+    "fr": {
+      "title": "Polo a déchiré la carte postale de Cabo",
+      "dek": "L'ouragan de catégorie 5 a envoyé une houle massive sur la pointe de la Basse-Californie. Autour de l'Arche, le décor de vacances a soudain changé de visage.",
+      "body": [
+        "À Cabo, on connaît le décor : grand soleil, bateaux dans la baie, verres frais en terrasse et l'Arche posée au bout de la péninsule. Puis Polo est arrivé. Le 25 septembre, le National Hurricane Center estimait ses vents à 180 mph alors que l'ouragan se trouvait encore au sud de la Basse-Californie. Peu après, toute cette énergie a commencé à rentrer sur la côte.",
+        "À Cabo San Lucas, les images montrent de grosses droites épaisses qui explosent juste à côté de l'Arche. C'est superbe à regarder, beaucoup moins engageant à surfer : fond rocheux, courant puissant et énormément d'eau en mouvement. Alors que Polo traversait la péninsule avant de remonter vers le Sonora, le NHC continuait d'alerter sur une houle dangereuse, des courants d'arrachement et un risque d'inondation sur le littoral.",
+        "C'est ce contraste qui rend l'épisode aussi marquant. Cabo n'a pas cessé d'être beau ; il a simplement cessé d'avoir l'air docile. Pendant quelques jours, le décor de vacances a laissé apparaître l'autre visage du Pacifique : puissant, imprévisible, et à regarder avec un peu d'humilité."
+      ]
+    },
+    "es": {
+      "title": "Polo rompió la postal de Cabo",
+      "dek": "El huracán de categoría 5 empujó una marejada enorme hacia Baja y, durante unos días, convirtió una de las costas más reconocibles de México en algo mucho más salvaje.",
+      "body": [
+        "Cabo suele aparecer siempre igual: sol limpio, barcos en la bahía, algo frío en la mano y el Arco recortado al fondo. Después llegó Polo. El 25 de septiembre, el National Hurricane Center estimaba vientos de 180 mph mientras el huracán seguía al sur de Baja. Poco después, toda esa energía empezó a hacerse sentir en la costa.",
+        "En Cabo San Lucas, las imágenes enseñan derechas gruesas rompiendo junto al Arco. Es impresionante de ver, pero nada amable: roca, corriente fuerte y muchísima agua moviéndose a la vez. Mientras Polo cruzaba la península y avanzaba hacia Sonora, el NHC seguía avisando de oleaje peligroso, corrientes de resaca e inundaciones costeras.",
+        "Eso es lo que hizo especial la semana. Cabo no dejó de ser bonito; simplemente dejó de parecer dócil. Durante unos días, el escenario de vacaciones enseñó la otra cara del Pacífico: potente, imprevisible y bastante más serio de lo que parece desde una tumbona."
+      ]
+    },
+    "pt": {
+      "title": "Polo rasgou o postal de Cabo",
+      "dek": "O furacão de categoria 5 empurrou uma ondulação enorme para a Baja e, durante alguns dias, transformou uma das costas mais conhecidas do México num cenário muito mais bruto.",
+      "body": [
+        "Cabo costuma aparecer sempre com a mesma imagem: sol, barcos na baía, uma bebida fresca e o Arco no fim da península. Depois chegou Polo. A 25 de setembro, o National Hurricane Center estimava ventos de 180 mph enquanto o furacão ainda estava a sul da Baja. Pouco depois, toda essa energia começou a chegar à costa.",
+        "Em Cabo San Lucas, as imagens mostram direitas pesadas a rebentar junto ao Arco. É impressionante de ver, mas pouco convidativo: fundo de rocha, corrente forte e muita água em movimento. Enquanto Polo atravessava a península e seguia em direção a Sonora, o NHC continuava a alertar para ondulação perigosa, correntes de retorno e inundações costeiras.",
+        "Foi esse contraste que tornou a semana tão marcante. Cabo não deixou de ser bonito; apenas deixou de parecer domesticado. Durante alguns dias, o cenário de férias mostrou a outra face do Pacífico: poderosa, imprevisível e suficientemente séria para ser observada com respeito."
+      ]
+    }
+  },
+  "image": {
+    "path": "images/hurricane-polo-cabo.svg",
+    "alt": {
+      "en": "Original illustrated surf seascape for Polo tore through Cabo's postcard",
+      "fr": "Illustration originale de l'océan pour l'article « Polo a déchiré la carte postale de Cabo »",
+      "es": "Ilustración original del mar para « Polo rompió la postal de Cabo »",
+      "pt": "Ilustração original do mar para « Polo rasgou o postal de Cabo »"
+    },
+    "credit": "Yosurf — original editorial illustration",
+    "license": "original"
+  }
+}

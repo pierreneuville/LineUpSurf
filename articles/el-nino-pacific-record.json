@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "slug": "el-nino-pacific-record",
+  "status": "published",
+  "publishedAt": "2026-10-05",
+  "eventAt": "2026-10-02",
+  "category": "waves",
+  "location": "Pacific Ocean",
+  "editorialScore": 92,
+  "sources": [
+    {
+      "label": "NOAA Climate Prediction Center — ENSO probabilities",
+      "url": "https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/probabilities/"
+    },
+    {
+      "label": "Surfline — Super El Niño Tracker",
+      "url": "https://www.surfline.com/surf-news/swell-alert/super-el-nino-surf-swell-storm-tracker-2026-27/6D7qJ9p9Q7pAE76qqjB89c"
+    },
+    {
+      "label": "NASA Earth Observatory — Powerful Storms Continue to Prowl the Pacific",
+      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
+    }
+  ],
+  "translations": {
+    "en": {
+      "title": "The Pacific just broke an El Niño record. Surfers should pay attention.",
+      "dek": "The key Niño 3.4 region hit a weekly anomaly of +3.1°C — a new high in NOAA's weekly series, and unusually early in the season. For surfers, the interesting part is what comes next.",
+      "body": [
+        "The number landed this week: +3.1°C in Niño 3.4 for the week centred on September 23. Surfline, using NOAA data, says that edges the previous weekly high of +3.0°C from November 2015. NOAA's official outlook already gives El Niño a 100% probability through the coming winter seasons; the slower three-month indices still need time to catch up with the weekly surge.",
+        "This is not a promise of perfect surf. El Niño changes the Pacific storm track; it does not book clean offshore mornings. But strong events have a habit of loading the dice: more energetic North Pacific storms, unusual tropical activity and a better chance of significant swell reaching exposed coasts. This year's East Pacific has already offered a preview, with a hyperactive hurricane season and Polo sending serious surf into Baja and Southern California.",
+        "The useful move now is not to circle one magic date. It is to watch the Pacific. The ocean has entered rare territory before the Northern Hemisphere winter has even properly started — and the next few months could get very interesting."
+      ]
+    },
+    "fr": {
+      "title": "Le Pacifique vient de battre un record d’El Niño. Pour les surfers, la suite compte davantage.",
+      "dek": "Dans la zone de référence Niño 3.4, l’anomalie hebdomadaire a atteint +3,1 °C, un niveau inédit dans la série de la NOAA — et surtout très tôt dans la saison.",
+      "body": [
+        "Le chiffre est tombé cette semaine : +3,1 °C dans la région Niño 3.4 pour la semaine centrée sur le 23 septembre. D’après les données NOAA reprises par Surfline, c’est légèrement au-dessus du précédent record hebdomadaire de novembre 2015. Les indicateurs calculés sur plusieurs mois, eux, évoluent plus lentement : il faudra encore attendre avant de savoir jusqu’où ira réellement cet épisode.",
+        "Pour le surf, pas question d’en déduire que l’hiver sera parfait. El Niño modifie la circulation atmosphérique et la trajectoire des dépressions dans le Pacifique, mais ne garantit ni houle bien orientée ni vent offshore. En revanche, les épisodes les plus puissants peuvent favoriser des tempêtes plus énergiques dans le Pacifique Nord et multiplier les occasions de voir arriver de grosses houles sur les côtes exposées.",
+        "On en a déjà eu un avant-goût : la saison cyclonique a été particulièrement active dans le Pacifique Est, avec notamment Polo et ses vagues sur la Basse-Californie et la Californie du Sud. La bonne attitude n’est donc pas de réserver un billet pour une date au hasard, mais de garder un œil sur les cartes. Le Pacifique entre dans une configuration rare alors que l’hiver n’a même pas commencé."
+      ]
+    },
+    "es": {
+      "title": "El Pacífico acaba de marcar un récord de El Niño. Ahora toca mirar los mapas.",
+      "dek": "La anomalía semanal en Niño 3.4 alcanzó +3,1 °C, el valor más alto de la serie semanal de NOAA, y lo hizo mucho antes de lo habitual.",
+      "body": [
+        "El dato que importa esta semana es +3,1 °C. Es la anomalía registrada en Niño 3.4 durante la semana centrada en el 23 de septiembre. Según los datos de NOAA recogidos por Surfline, supera por una décima el máximo semanal de noviembre de 2015. Los índices de tres meses avanzan más despacio, así que todavía es pronto para saber dónde acabará este episodio.",
+        "Para un surfista, un El Niño fuerte no significa automáticamente un invierno de olas perfectas. Cambia el patrón de tormentas del Pacífico y puede favorecer sistemas más potentes, pero después siguen mandando la dirección del swell, el viento y cada costa. Lo interesante es que el océano ya está dando señales: el Pacífico oriental ha vivido una temporada de huracanes muy activa y Polo dejó mar serio en Baja California y el sur de California.",
+        "No hay una fecha mágica que apuntar en el calendario. Sí hay una razón para seguir las previsiones con más atención de lo normal. El Pacífico ha entrado en terreno poco habitual antes de que empiece de verdad el invierno del hemisferio norte."
+      ]
+    },
+    "pt": {
+      "title": "O Pacífico bateu um recorde de El Niño. Agora vale a pena acompanhar os mapas.",
+      "dek": "A anomalia semanal na região Niño 3.4 chegou aos +3,1 °C, o valor mais alto da série semanal da NOAA — e ainda estamos no início do outono no hemisfério norte.",
+      "body": [
+        "O número desta semana é +3,1 °C. Foi a anomalia registada na região Niño 3.4 na semana centrada em 23 de setembro. Segundo os dados da NOAA acompanhados pela Surfline, ultrapassa por uma décima o anterior máximo semanal, registado em novembro de 2015. Os índices calculados em períodos de três meses reagem mais devagar, por isso ainda é cedo para dizer até onde chegará este episódio.",
+        "Para quem surfa, um El Niño forte não é uma garantia de ondas perfeitas. Pode alterar a trajetória e a intensidade das tempestades no Pacífico, aumentando as oportunidades para ondulações importantes, mas depois continuam a contar a direção, o vento e a exposição de cada costa. O Pacífico oriental já deu um sinal do que pode estar para vir: uma época de furacões muito ativa, com Polo a gerar mar forte na Baja California e no sul da Califórnia.",
+        "Não há um dia mágico para marcar no calendário. Há, sim, boas razões para olhar para as previsões com atenção redobrada. O Pacífico entrou numa configuração rara antes de o inverno do hemisfério norte começar a sério."
+      ]
+    }
+  },
+  "image": {
+    "path": "images/el-nino-pacific-record.svg",
+    "alt": {
+      "en": "Original illustrated surf seascape for The Pacific just broke an El Niño record. Surfers should pay attention.",
+      "fr": "Illustration originale de l'océan pour l'article « Le Pacifique vient de battre un record d’El Niño. Pour les surfers, la suite compte davantage. »",
+      "es": "Ilustración original del mar para « El Pacífico acaba de marcar un récord de El Niño. Ahora toca mirar los mapas. »",
+      "pt": "Ilustração original do mar para « O Pacífico bateu um recorde de El Niño. Agora vale a pena acompanhar os mapas. »"
+    },
+    "credit": "Yosurf — original editorial illustration",
+    "license": "original"
+  }
+}
