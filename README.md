@@ -8,7 +8,7 @@ Public, Git-backed content repository for the **The Lineup** section on [Yosurf]
 - `articles/<slug>.json` — one complete EN / FR / ES / PT story per file
 - `images/<slug>.svg` (or approved .jpg/.webp/.png) — editorial assets kept in this same repository
 
-The website reads these files from `raw.githubusercontent.com` at runtime using 300-second Next.js ISR. **Adding an article, changing a translation or uploading an image does not need a Yosurf build.**
+The website reads JSON via `raw.githubusercontent.com` using 300-second Next.js ISR. Images are served from the repository through `cdn.jsdelivr.net` (needed for reliable SVG MIME types); asset URLs may remain cached for up to 12 hours, so give any updated image a NEW filename. **Adding an article, changing a translation or uploading an image does not need a Yosurf build.**
 
 ## Branches
 
