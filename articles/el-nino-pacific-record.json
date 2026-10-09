@@ -60,14 +60,22 @@
     }
   },
   "image": {
-    "path": "images/el-nino-pacific-record.svg",
+    "path": "images/el-nino-pacific-record-licensed-archive.webp",
     "alt": {
-      "en": "Original illustrated surf seascape for The Pacific just broke an El Niño record. Surfers should pay attention.",
-      "fr": "Illustration originale de l'océan pour l'article « Le Pacifique vient de battre un record d’El Niño. Pour les surfers, la suite compte davantage. »",
-      "es": "Ilustración original del mar para « El Pacífico acaba de marcar un récord de El Niño. Ahora toca mirar los mapas. »",
-      "pt": "Ilustração original do mar para « O Pacífico bateu um recorde de El Niño. Agora vale a pena acompanhar os mapas. »"
+      "en": "Archive photograph of a breaking Pacific wave at Torrey Pines State Beach, California",
+      "fr": "Photo d'archive d'une vague déferlant à Torrey Pines, sur la côte californienne du Pacifique",
+      "es": "Fotografía de archivo de una ola rompiendo en Torrey Pines, en la costa pacífica de California",
+      "pt": "Fotografia de arquivo de uma onda a rebentar em Torrey Pines, na costa do Pacífico da Califórnia"
     },
-    "credit": "Yosurf — original editorial illustration",
-    "license": "original"
+    "caption": {
+      "en": "Pacific surf photographed at Torrey Pines in 2015. Archive photo, unrelated to the 2026 El Niño measurement.",
+      "fr": "Une vague photographiée à Torrey Pines en 2015. Image d’archive, sans lien direct avec les mesures El Niño de 2026.",
+      "es": "Una ola fotografiada en Torrey Pines en 2015. Imagen de archivo, no representa las mediciones de El Niño de 2026.",
+      "pt": "Uma onda fotografada em Torrey Pines em 2015. Imagem de arquivo, sem relação direta com os registos de El Niño em 2026."
+    },
+    "credit": "Austin Schmid",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_ocean_surf_wave_(Unsplash).jpg"
   }
 }

@@ -68,14 +68,22 @@
     }
   },
   "image": {
-    "path": "images/stern-fever-shipstern-bluff.svg",
+    "path": "images/stern-fever-shipstern-bluff-licensed-archive.webp",
     "alt": {
-      "en": "Original illustrated surf seascape for Shipstern was a secret. Stern Fever is about what happened when the world found out.",
-      "fr": "Illustration originale de l'océan pour l'article « Shipstern Bluff avait un secret. Stern Fever raconte comment il a fini par faire le tour du monde. »",
-      "es": "Ilustración original del mar para « Shipstern fue un secreto. Stern Fever cuenta qué pasó cuando dejó de serlo. »",
-      "pt": "Ilustração original do mar para « Shipstern foi um segredo. Stern Fever conta o que aconteceu quando deixou de o ser. »"
+      "en": "Archive photograph of Riley Laing surfing a large barrel at Shipstern Bluff in Tasmania in 2012",
+      "fr": "Photo d'archive de Riley Laing surfant une grosse vague à Shipstern Bluff, en Tasmanie, en 2012",
+      "es": "Fotografía de archivo de Riley Laing surfeando una ola grande en Shipstern Bluff, Tasmania, en 2012",
+      "pt": "Fotografia de arquivo de Riley Laing a surfar uma onda grande em Shipstern Bluff, na Tasmânia, em 2012"
     },
-    "credit": "Yosurf — original editorial illustration",
-    "license": "original"
+    "caption": {
+      "en": "Riley Laing at Shipstern Bluff in 2012 — archive photo, not a still from Stern Fever.",
+      "fr": "Riley Laing à Shipstern Bluff en 2012. Photo d’archive, et non image tirée du film Stern Fever.",
+      "es": "Riley Laing en Shipstern Bluff en 2012. Foto de archivo, no es un fotograma de Stern Fever.",
+      "pt": "Riley Laing em Shipstern Bluff em 2012. Fotografia de arquivo, não é uma imagem do filme Stern Fever."
+    },
+    "credit": "Jamieragen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riley_Laing_surfing_Ship_Stern_Bluff.jpeg"
   }
 }

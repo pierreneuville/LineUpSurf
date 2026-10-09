@@ -60,14 +60,22 @@
     }
   },
   "image": {
-    "path": "images/hurricane-polo-cabo.svg",
+    "path": "images/hurricane-polo-cabo-licensed-archive.webp",
     "alt": {
-      "en": "Original illustrated surf seascape for Polo tore through Cabo's postcard",
-      "fr": "Illustration originale de l'océan pour l'article « Polo a déchiré la carte postale de Cabo »",
-      "es": "Ilustración original del mar para « Polo rompió la postal de Cabo »",
-      "pt": "Ilustração original do mar para « Polo rasgou o postal de Cabo »"
+      "en": "Archive photo of large waves crashing onto Land's End rocks in Cabo San Lucas, photographed in 2015",
+      "fr": "Photo d'archive : de grosses vagues s'écrasent sur les rochers de Land's End, à Cabo San Lucas, en 2015",
+      "es": "Fotografía de archivo de grandes olas rompiendo contra las rocas de Land's End, Cabo San Lucas, en 2015",
+      "pt": "Fotografia de arquivo de ondas grandes a rebentar nas rochas de Land's End, em Cabo San Lucas, em 2015"
     },
-    "credit": "Yosurf — original editorial illustration",
-    "license": "original"
+    "caption": {
+      "en": "Archive photograph from Cabo San Lucas (2015), not the Hurricane Polo swell.",
+      "fr": "Photo d’archive prise à Cabo San Lucas en 2015, et non pendant l’ouragan Polo.",
+      "es": "Fotografía de archivo tomada en Cabo San Lucas en 2015; no corresponde al huracán Polo.",
+      "pt": "Fotografia de arquivo captada em Cabo San Lucas em 2015, não durante o furacão Polo."
+    },
+    "credit": "Kirt Edblom",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_waves.jpg"
   }
 }

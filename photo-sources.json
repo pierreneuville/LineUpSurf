@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "photos": [
+    {
+      "slug": "hurricane-polo-cabo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Big_waves.jpg/1280px-Big_waves.jpg",
+      "author": "Kirt Edblom",
+      "date": "2015-07-05",
+      "location": "Land's End, Cabo San Lucas, Mexico",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_waves.jpg",
+      "note": "Archive photograph, NOT the 2026 Hurricane Polo swell."
+    },
+    {
+      "slug": "stern-fever-shipstern-bluff",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Riley_Laing_surfing_Ship_Stern_Bluff.jpeg",
+      "author": "Jamieragen",
+      "date": "2012-09-12",
+      "location": "Shipstern Bluff, Tasmania, Australia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riley_Laing_surfing_Ship_Stern_Bluff.jpeg",
+      "note": "Archive photograph of Riley Laing at Shipstern Bluff, NOT a still from the Stern Fever documentary."
+    },
+    {
+      "slug": "el-nino-pacific-record",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Big_ocean_surf_wave_%28Unsplash%29.jpg/1280px-Big_ocean_surf_wave_%28Unsplash%29.jpg",
+      "author": "Austin Schmid",
+      "date": "2015-08-07",
+      "location": "Torrey Pines State Beach, California, USA",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_ocean_surf_wave_(Unsplash).jpg",
+      "note": "Archive Pacific wave photo, not a photograph of the 2026 ENSO anomaly."
+    }
+  ]
+}
