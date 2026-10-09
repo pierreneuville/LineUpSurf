@@ -16,9 +16,32 @@ for photo in manifest["photos"]:
     assert slug.replace("-", "").isalnum() and len(slug) <= 100
     url = photo["url"]
     assert url.startswith("https://upload.wikimedia.org/wikipedia/commons/")
-    req = urllib.request.Request(url, headers={"User-Agent": "Yosurf-Editorial-Photo-Importer/1.0 (CC license attribution in pierreneuville/LineUpSurf)"})
-    with urllib.request.urlopen(req, timeout=40) as response:
-        payload = response.read(10 * 1024 * 1024 + 1)
+    # Wikimedia blocks shared CI runner IP ranges with 429; do not publish
+    # anything until a real raster file can be downloaded and decoded.
+    # A temporary third-party image proxy is permitted for IMPORT ONLY:
+    # once imported, website images are served from our public GitHub repo.
+    from urllib.parse import quote
+    attempts = [
+        url,
+        "https://wsrv.nl/?url=" + quote(url, safe=""),
+        "https://images.weserv.nl/?url=" + quote(url, safe=""),
+    ]
+    payload = None
+    for candidate in attempts:
+        try:
+            req = urllib.request.Request(candidate, headers={
+                "User-Agent": "Mozilla/5.0 YosurfEditorialBot/1.0 (https://github.com/pierreneuville/LineUpSurf)",
+                "Accept": "image/avif,image/webp,image/*,*/*;q=0.8",
+            })
+            with urllib.request.urlopen(req, timeout=40) as response:
+                payload = response.read(10 * 1024 * 1024 + 1)
+            if payload:
+                print(f"Fetched {slug} from {candidate.split('/')[2]}")
+                break
+        except Exception as err:
+            print(f"Image fetch failed from {candidate.split('/')[2]} for {slug}: {err}")
+    if payload is None:
+        raise RuntimeError(f"All photo fetch sources unavailable: {slug}")
     if len(payload) > 10 * 1024 * 1024:
         raise ValueError(f"Image too large: {slug}")
     with Image.open(io.BytesIO(payload)) as src:
