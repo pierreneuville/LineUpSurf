@@ -35,3 +35,13 @@ Each imported WebP is a resized/re-encoded copy, without substantive retouching.
 ## Copyright protocol
 
 If new photos cannot be legally re-used and independently traced to an owner, do not import them. Keep licensing/source URL as part of article JSON and photo provenance. Refrain from reporting archival photography as visual proof of recent surf events.
+
+## cloud-9-first-ct-philippines
+
+- Photo: Surfing on Siargao Island, Philippines (2019-02-06)
+- Photographer: Niko.llanes
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Original: https://commons.wikimedia.org/wiki/File:Surfing_@_Siargao.jpg
+- Asset: `images/cloud-9-first-ct-philippines-licensed-archive.webp`
+- Changes: resized and re-encoded to WebP with Pillow; no scene manipulation
+- Usage qualification: genuine **archival photograph of surfing in Siargao**, not the 2026 Philippines Pro competition and not a photograph of any of its participants
