@@ -14,6 +14,10 @@ out_dir.mkdir(parents=True, exist_ok=True)
 for photo in manifest["photos"]:
     slug = photo["slug"]
     assert slug.replace("-", "").isalnum() and len(slug) <= 100
+    dest = out_dir / (slug + "-licensed-archive.webp")
+    if dest.is_file() and dest.stat().st_size > 0:
+        print(f"Already imported {slug}: {dest.stat().st_size} bytes")
+        continue
     url = photo["url"]
     assert url.startswith("https://upload.wikimedia.org/wikipedia/commons/")
     # Wikimedia blocks shared CI runner IP ranges with 429; do not publish
