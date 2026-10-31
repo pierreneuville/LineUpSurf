@@ -45,3 +45,14 @@ If new photos cannot be legally re-used and independently traced to an owner, do
 - Asset: `images/cloud-9-first-ct-philippines-licensed-archive.webp`
 - Changes: resized and re-encoded to WebP with Pillow; no scene manipulation
 - Usage qualification: genuine **archival photograph of surfing in Siargao**, not the 2026 Philippines Pro competition and not a photograph of any of its participants
+
+
+## eddie-aikau-invitees-2026
+
+- Photo: the Eddie Aikau Invitational, Waimea Bay, Oʻahu (2016-02-25)
+- Photographer: Anthony Quintano
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Original: https://commons.wikimedia.org/wiki/File:Eddie_Aikau_Big_Wave_Invitational_Surf_Contest_Waimea_Bay_Hawaii_Febrary_2016_(24982900920).jpg
+- Asset: `images/eddie-aikau-invitees-2026-licensed-archive.webp`
+- Changes: resized and converted to compressed WebP; no scene alteration
+- Archive disclaimer: an actual photograph from the 2016 Eddie, NOT a photo of the upcoming 2026/27 competition. Caption and alt text in EN, FR, ES, PT.
