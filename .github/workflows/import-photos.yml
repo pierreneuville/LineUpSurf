@@ -1,0 +1,36 @@
+name: Import licensed Lineup photographs
+on:
+  push:
+    branches:
+      - 'content/lineup-photos-*'
+    paths:
+      - '.github/workflows/import-photos.yml'
+      - 'photo-sources.json'
+      - 'scripts/import_photos.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import_photos:
+    if: github.repository == 'pierreneuville/LineUpSurf'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --disable-pip-version-check Pillow==11.3.0
+      - run: python scripts/import_photos.py
+      - name: Commit verified WebP photos
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/*-licensed-archive.webp
+          if ! git diff --cached --quiet; then
+            git commit -m "assets(lineup): import credited archival photographs"
+            git push
+          fi
