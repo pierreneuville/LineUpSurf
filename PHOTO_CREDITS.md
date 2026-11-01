@@ -56,3 +56,30 @@ If new photos cannot be legally re-used and independently traced to an owner, do
 - Asset: `images/eddie-aikau-invitees-2026-licensed-archive.webp`
 - Changes: resized and converted to compressed WebP; no scene alteration
 - Archive disclaimer: an actual photograph from the 2016 Eddie, NOT a photo of the upcoming 2026/27 competition. Caption and alt text in EN, FR, ES, PT.
+
+
+## alas-garcia-beisso-titles-2026
+
+- Photograph: surfing in La Libertad, El Salvador, 2007-07-10
+- Author: L. E. MacDonald
+- Source and license evidence: https://commons.wikimedia.org/wiki/File:Surfing_in_El_Salvador_by_L._E._MacDonald.png
+- Original Flickr source: https://www.flickr.com/photos/50109110@N00/847152730/
+- License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/); this WebP remains under CC BY-SA 2.0.
+- Asset: `images/alas-garcia-beisso-titles-2026-licensed-archive.webp` (1024 × 534)
+- Changes: PNG re-encoded as WebP; no crop or scene retouching.
+- Archive qualification: NOT Costa del Sol, NOT García or Beisso, NOT the 2026 event. This is an illustrative archive photograph from elsewhere on El Salvador's coast.
+- Commons records a Flickr license review by Arria Belli on 2008-01-08. Rights page checked 2026-11-01.
+- Attribution, archive date, changes and archive qualification appear in all four article captions; source and license links are included in the image object.
+
+## sunset-pro-north-shore-2026
+
+- Photograph: surfing at Sunset Beach, Oʻahu, Hawaiʻi, 2014-09-24
+- Author: Prayitno / Thank you for (12 millions +) view
+- Source and license evidence: https://commons.wikimedia.org/wiki/File:Surfing_@_Sunset_Beach_(15436976170).jpg
+- Original Flickr source: https://www.flickr.com/photos/prayitnophotography/15436976170/
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/); this WebP remains under CC BY 2.0.
+- Asset: `images/sunset-pro-north-shore-2026-licensed-archive.webp` (1600 × 1067)
+- Changes: proportionally resized and converted from JPEG to WebP; no crop or scene retouching.
+- Archive qualification: genuine photograph of Sunset on a SMALL day in 2014, NOT the powerful conditions or named competitors at the 2026 Sunset Pro.
+- Commons records a Flickr license review by FlickreviewR on 2017-07-13. Rights page checked 2026-11-01.
+- Attribution, archive date, changes and archive qualification appear in all four article captions; source and license links are included in the image object.
