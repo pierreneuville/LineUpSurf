@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "slug": "ride-the-future-wavepool-2026",
+  "status": "published",
+  "publishedAt": "2026-11-06",
+  "eventAt": "2026-10-27",
+  "category": "competition",
+  "location": "Worldwide — any wave pool",
+  "editorialScore": 75,
+  "sources": [
+    {
+      "label": "Wavepool Surf Tour — Ride The Future official event and rules",
+      "url": "https://www.wavepoolsurftour.com/events/26-27/ride-the-future-9k8mfkpgoq751bxz"
+    },
+    {
+      "label": "Wavepool Surf Tour — original announcement, 27 October 2026",
+      "url": "https://www.wavepoolsurftour.com/news/wavepool-surf-tour-wpst-launches-ride-the-future-2026-a-global-online-specialty-event-celebrating-the-best-wave-pool-airs-turns-and-barrels-of-2026"
+    },
+    {
+      "label": "The Inertia — independent coverage, 4 November 2026",
+      "url": "https://www.theinertia.com/surf/wavepool-surf-tour-ride-the-future-contest/"
+    },
+    {
+      "label": "SURFER — independent coverage, 4 November 2026",
+      "url": "https://www.surfer.com/news/new-global-wave-pool-surf-contest-anyone-can-enter"
+    }
+  ],
+  "image": {
+    "path": "images/ride-the-future-wavepool-2026-licensed-archive.webp",
+    "alt": {
+      "en": "A surfer rides a blue artificial wave at SRF Wavegarden in Tel Aviv, photographed in 2025",
+      "fr": "Un surfer sur une vague artificielle à SRF Wavegarden, à Tel-Aviv, photographié en 2025",
+      "es": "Un surfista en una ola artificial de SRF Wavegarden, Tel Aviv, fotografiado en 2025",
+      "pt": "Um surfista numa onda artificial na SRF Wavegarden, em Telavive, fotografado em 2025"
+    },
+    "caption": {
+      "en": "Surfing at SRF Wavegarden, Tel Aviv, June 2025. Archive photo by Sandia2020, not a Ride The Future entry. Resized and converted to WebP.",
+      "fr": "Une session à SRF Wavegarden, Tel-Aviv, en juin 2025. Photo d’archive de Sandia2020, pas une vidéo ni une image du concours Ride The Future. Redimensionnée et convertie en WebP.",
+      "es": "Una sesión en SRF Wavegarden, Tel Aviv, en junio de 2025. Foto de archivo de Sandia2020, no pertenece al concurso Ride The Future. Redimensionada y convertida a WebP.",
+      "pt": "Uma sessão na SRF Wavegarden, em Telavive, em junho de 2025. Fotografia de arquivo de Sandia2020, não tirada durante o Ride The Future. Redimensionada e convertida para WebP."
+    },
+    "credit": "Sandia2020",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WAVEGARDEN.jpg"
+  },
+  "translations": {
+    "en": {
+      "title": "A wave pool contest you can enter without leaving your home break",
+      "dek": "Ride The Future is taking entries from surfers around the world, with a $10 starting fee and no single competition venue. The wave just needs to have been ridden in a pool this year.",
+      "body": [
+        "Most surf contests ask you to turn up at the right beach on the right morning. Ride The Future is trying a different question: what if your best wave of the year, filmed in a wave pool anywhere in the world, was enough to enter? Registration is now open for the Wavepool Surf Tour's online specialty event, with video submissions accepted from November 13 to December 13.",
+        "The format is simple. Pick a clip from 2026 and enter Best Air, Best Turn or Best Barrel. There are men's and women's categories across grom, junior, open and masters divisions. The entry fee starts at US$10; a trip to a host venue isn't required, though the cost of your pool session or filming isn't covered.",
+        "The organizers list 72 prizes, including US$3,000 cash and a separate package of memberships, future event entries and sponsor products. There are rules: footage must be original, unedited, filmed horizontally and available for checking. You can't recycle a wave already entered in another contest.",
+        "Don't confuse it with a world-title qualifier: results won't count toward the main tour rankings. Its appeal is more immediate. A surfer in Wales, Switzerland or Australia can have a go without flying to the same pool as everyone else. Whether that makes for great competition remains to be seen."
+      ]
+    },
+    "fr": {
+      "title": "Un concours mondial de surf en piscine, sans billet d’avion",
+      "dek": "Ride The Future accepte les vagues filmées cette année dans n’importe quel bassin de surf. Inscriptions ouvertes, participation à partir de 10 dollars et trois catégories pour se mesurer aux autres.",
+      "body": [
+        "Pas besoin de traverser la planète pour participer à ce concours-là. Avec Ride The Future, le Wavepool Surf Tour propose d'envoyer une vidéo de sa meilleure vague, prise dans une piscine de surf n'importe où dans le monde au cours de l'année 2026. Les inscriptions sont ouvertes et les vidéos pourront être déposées du 13 novembre au 13 décembre.",
+        "Trois exercices sont proposés : la meilleure manœuvre aérienne, le meilleur virage et le meilleur tube. Les classements distinguent les hommes et les femmes, ainsi que plusieurs catégories d'âge, des moins de 14 ans aux masters de 40 ans et plus. Le tarif commence à 10 dollars américains ; la session dans le bassin reste évidemment à la charge des participants.",
+        "L'organisation annonce 72 récompenses, dont 3 000 dollars en espèces, auxquels s'ajoutent des lots et des inscriptions à de futurs événements. Pour éviter les montages avantageux, les images doivent être originales, non retouchées, filmées à l'horizontale et vérifiables. Une vague déjà inscrite ailleurs ne peut pas être proposée.",
+        "Ce n'est pas une manche du circuit comptant pour le titre mondial. L'intérêt est ailleurs : faire concourir des surfers de pays différents sans les réunir dans la même piscine. Reste à voir si le format trouvera son public au-delà des amateurs de vagues artificielles."
+      ]
+    },
+    "es": {
+      "title": "Un concurso de olas artificiales sin viajar a una sede",
+      "dek": "Ride The Future permite competir con una grabación hecha este año en cualquier piscina de surf. Las inscripciones ya están abiertas y el precio parte de 10 dólares.",
+      "body": [
+        "Una ola grabada en una piscina de surf de tu ciudad puede competir con otra tomada al otro lado del mundo. Esa es la propuesta de Ride The Future, el nuevo concurso virtual del Wavepool Surf Tour. Ya admite inscripciones y recibirá vídeos entre el 13 de noviembre y el 13 de diciembre de 2026.",
+        "Cada participante puede presentar olas surfadas durante 2026 en cualquier instalación del mundo. Las modalidades son Mejor Aéreo, Mejor Giro y Mejor Tubo, con categorías masculinas y femeninas para menores de 14 años, júnior, absoluta y máster. El precio de entrada comienza en 10 dólares estadounidenses; pagar la sesión en la piscina va por cuenta de cada uno.",
+        "El concurso anuncia 72 premios, entre ellos 3.000 dólares en efectivo, además de material, membresías y futuras inscripciones. Los vídeos tienen que ser originales, sin editar, en horizontal y verificables. Tampoco se aceptan olas utilizadas antes en otra competición.",
+        "Conviene aclarar una cosa: los resultados no sumarán puntos para el ranking oficial del circuito ni darán acceso a su final mundial. Es una prueba independiente. Lo novedoso es el punto de partida: competir desde cualquier piscina, sin que todos tengan que desplazarse al mismo lugar."
+      ]
+    },
+    "pt": {
+      "title": "Uma prova de surf em piscina onde não é preciso viajar",
+      "dek": "O Ride The Future recebe vídeos de ondas surfadas em qualquer piscina do mundo durante 2026. As inscrições já abriram, a partir de 10 dólares.",
+      "body": [
+        "Um surfista pode apanhar a sua melhor onda numa piscina em Portugal, outro fazê-lo na Austrália, e ambos entrarem na mesma prova sem sair do país. É essa a ideia do Ride The Future, a nova competição online do Wavepool Surf Tour. As inscrições estão abertas e a entrega de vídeos decorre de 13 de novembro a 13 de dezembro.",
+        "Contam ondas surfadas em qualquer piscina durante 2026. Há três modalidades — Melhor Aéreo, Melhor Manobra e Melhor Tubo — com categorias masculinas e femininas para groms, juniores, open e masters. O valor de inscrição começa nos 10 dólares norte-americanos, mas cada participante continua a pagar a sua própria sessão no local onde surfa.",
+        "Estão anunciados 72 prémios, incluindo 3 000 dólares em dinheiro, além de equipamento, inscrições em eventos futuros e outros benefícios. As imagens têm de ser originais, sem edição, filmadas na horizontal e passíveis de verificação. Não se pode usar uma onda que já tenha entrado noutra competição.",
+        "Esta prova não dá pontos para o ranking principal nem serve para qualificar para a final mundial do circuito. O desafio é mais simples: perceber se uma competição distribuída por várias piscinas consegue aproximar surfistas que nunca partilham a mesma água."
+      ]
+    }
+  }
+}
