@@ -77,6 +77,28 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surfing_@_Sunset_Beach_(15436976170).jpg",
       "note": "Sunset Beach, 24 September 2014. Archive view of the break on a small day, not the conditions or competitors at the 2026 Sunset Pro. Prayitno / CC BY 2.0, via Wikimedia Commons. Resized and converted to WebP; no cropping or retouching."
+    },
+    {
+      "slug": "gaps-on-the-map-portugal-film",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/10_meters_-_Nazar%C3%A9_-_Portugal_-_Flickr_-_Carlos_Eduardo_Joos.jpg/1280px-10_meters_-_Nazar%C3%A9_-_Portugal_-_Flickr_-_Carlos_Eduardo_Joos.jpg",
+      "author": "Carlos Eduardo Joos",
+      "date": "2023-03-12",
+      "location": "Praia do Norte, Nazaré, Portugal",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:10_meters_-_Nazar%C3%A9_-_Portugal_-_Flickr_-_Carlos_Eduardo_Joos.jpg",
+      "note": "Archive photograph of a large wave at Nazaré in March 2023; not a still from Jamie Hancock's 2026 O'Neill film Gaps on the Map. Wikimedia Commons version crops the original vertically; imported image resized and re-encoded to WebP."
+    },
+    {
+      "slug": "ride-the-future-wavepool-2026",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/WAVEGARDEN.jpg",
+      "author": "Sandia2020",
+      "date": "2025-06-21",
+      "location": "SRF Wavegarden, Tel Aviv, Israel",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WAVEGARDEN.jpg",
+      "note": "Archive photo from a wave pool in June 2025; not a shot of Ride The Future competition, nor a 2026 submitted entry. Re-encoded as WebP, no scene manipulation."
     }
   ]
 }
