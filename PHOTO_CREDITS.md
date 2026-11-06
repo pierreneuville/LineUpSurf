@@ -83,3 +83,25 @@ If new photos cannot be legally re-used and independently traced to an owner, do
 - Archive qualification: genuine photograph of Sunset on a SMALL day in 2014, NOT the powerful conditions or named competitors at the 2026 Sunset Pro.
 - Commons records a Flickr license review by FlickreviewR on 2017-07-13. Rights page checked 2026-11-01.
 - Attribution, archive date, changes and archive qualification appear in all four article captions; source and license links are included in the image object.
+
+
+## gaps-on-the-map-portugal-film
+
+- Photo: a big wave at Praia do Norte, Nazaré, Portugal (2023-03-12)
+- Photographer: Carlos Eduardo Joos
+- License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- Source and license verification: https://commons.wikimedia.org/wiki/File:10_meters_-_Nazar%C3%A9_-_Portugal_-_Flickr_-_Carlos_Eduardo_Joos.jpg
+- Flickr original: https://www.flickr.com/photos/joos-gallery/52753443478/
+- Asset: `images/gaps-on-the-map-portugal-film-licensed-archive.webp`
+- Adaptation: Wikimedia Commons version was already cropped vertically from original (recorded in Commons file history); the imported thumbnail was resized/re-encoded as WebP, without any scene changes
+- **Archive warning:** this is a 2023 Nazaré photo, **NOT** a frame from Jamie Hancock’s 2026 film *Gaps on the Map*.
+
+## ride-the-future-wavepool-2026
+
+- Photo: surfer at SRF Wavegarden, Tel Aviv, Israel (2025-06-21)
+- Photographer: Sandia2020
+- License: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Source and license verification: https://commons.wikimedia.org/wiki/File:WAVEGARDEN.jpg
+- Asset: `images/ride-the-future-wavepool-2026-licensed-archive.webp`
+- Adaptation: resized/re-encoded as WebP, no crop or scene retouching
+- **Archive warning:** this is a 2025 wavepool photo, **NOT** a Ride The Future 2026 entry or official competition photograph.

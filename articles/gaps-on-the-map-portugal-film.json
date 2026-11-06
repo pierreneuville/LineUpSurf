@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "slug": "gaps-on-the-map-portugal-film",
+  "status": "published",
+  "publishedAt": "2026-11-06",
+  "eventAt": "2026-11-01",
+  "category": "culture",
+  "location": "Portugal",
+  "editorialScore": 80,
+  "sources": [
+    {
+      "label": "O’Neill — Gaps on the Map, official film announcement (1 November 2026)",
+      "url": "https://eu.oneill.com/blogs/all-1/gaps-on-the-map"
+    },
+    {
+      "label": "Around the Waves — Vannes Surf Night programme and film details",
+      "url": "https://aroundthewaves.com/en/surfnights/events/gaps-map-step-come-unity-cineville-parc-lann-vannes"
+    },
+    {
+      "label": "Around the Waves — Bordeaux screening, 10 November 2026",
+      "url": "https://aroundthewaves.com/fr/surfnights/events/gaps-map-step-come-unity-megarama-bordeaux"
+    }
+  ],
+  "image": {
+    "path": "images/gaps-on-the-map-portugal-film-licensed-archive.webp",
+    "alt": {
+      "en": "A big-wave surfer traverses a steep blue-green wave at Nazaré, Portugal, photographed in March 2023",
+      "fr": "Un surfer descend une grande vague à Nazaré, au Portugal, sur une photo prise en mars 2023",
+      "es": "Un surfista recorre la pared de una ola grande en Nazaré, Portugal, en una fotografía de marzo de 2023",
+      "pt": "Um surfista desce uma onda grande na Nazaré, numa fotografia de março de 2023"
+    },
+    "caption": {
+      "en": "Nazaré in March 2023. Archive photo by Carlos Eduardo Joos, not a still from Gaps on the Map. Wikimedia's source image was cropped vertically; resized and converted to WebP.",
+      "fr": "Nazaré, mars 2023. Photo d’archive de Carlos Eduardo Joos, non extraite du film Gaps on the Map. Image source recadrée verticalement sur Wikimedia, puis redimensionnée et convertie en WebP.",
+      "es": "Nazaré, marzo de 2023. Foto de archivo de Carlos Eduardo Joos, no un fotograma de Gaps on the Map. La imagen de Wikimedia fue recortada en vertical; se redimensionó y convirtió a WebP.",
+      "pt": "Nazaré, março de 2023. Fotografia de arquivo de Carlos Eduardo Joos, não retirada de Gaps on the Map. A imagem da Wikimedia foi cortada na vertical; foi redimensionada e convertida para WebP."
+    },
+    "credit": "Carlos Eduardo Joos",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:10_meters_-_Nazar%C3%A9_-_Portugal_-_Flickr_-_Carlos_Eduardo_Joos.jpg"
+  },
+  "translations": {
+    "en": {
+      "title": "Gaps on the Map sees Portugal through the people who surf it",
+      "dek": "Jamie Hancock’s new O’Neill film travels from the Algarve to Nazaré, giving shapers, scientists and surfers as much room as the waves.",
+      "body": [
+        "Portugal rarely needs an introduction in a surf film. Nazaré provides the scale, the Algarve the open road, and the Atlantic does the rest. Gaps on the Map, released by O’Neill on November 1, is interested in something less obvious: the lives people build around those stretches of coast.",
+        "Director Jamie Hancock brings together surfers with people who understand the water from different angles. Marine biologist and photographer Nuno Alves studies it; Nick Urrichio, a co-founder of Semente Surfboards, shapes boards for it; João de Macedo has spent years testing himself in big waves and working on ocean projects. Their perspectives give the journey more depth than a simple run of surf clips.",
+        "The film moves between well-known breaks and quieter corners of the Portuguese coastline. What connects the stops is not a secret spot to add to your next trip, but the way the sea ties together work, community and the decision to keep going back. It's a better reason to watch than another promise of empty perfection.",
+        "French audiences can catch screenings through Around the Waves in Bordeaux on November 10 and Vannes on November 13, with other dates on the tour. This is a film to watch for the coastline, but also for the people looking back at it."
+      ]
+    },
+    "fr": {
+      "title": "Au Portugal, un film qui regarde au-delà des vagues",
+      "dek": "Avec Gaps on the Map, Jamie Hancock parcourt la côte portugaise et laisse la parole à ceux qui y surfent, y travaillent et y vivent.",
+      "body": [
+        "On connaît les images de Nazaré, les côtes exposées à la houle atlantique et les sessions qui donnent envie de prendre la route. Gaps on the Map part de cet imaginaire, mais ne s'y arrête pas. Présenté par O’Neill le 1er novembre, le nouveau film de Jamie Hancock longe la côte portugaise, de l'Algarve aux vagues du centre, pour raconter aussi ce qui se passe hors de l'eau.",
+        "Le réalisateur a réuni des profils qui n'abordent pas l'Atlantique de la même manière. Nuno Alves photographie l'océan et l'étudie comme biologiste marin. Nick Urrichio a contribué à fonder Semente Surfboards. João de Macedo connaît les grosses houles et défend depuis longtemps des projets liés à la mer. Leurs témoignages donnent de l'épaisseur à un voyage qui aurait pu se contenter de belles images.",
+        "Il ne s'agit pas de dresser un palmarès des spots à cocher. Le film s'intéresse aux gestes, aux métiers et aux liens qui se créent autour de l'eau. C'est aussi une autre façon de regarder un littoral dont on réduit parfois l'histoire à quelques vagues célèbres.",
+        "Gaps on the Map figure au programme des Surf Nights d'Around the Waves, notamment à Bordeaux le 10 novembre et à Vannes le 13. Une bonne occasion de retrouver le Portugal sans passer par un énième guide de voyage."
+      ]
+    },
+    "es": {
+      "title": "Portugal, más allá de sus olas más conocidas",
+      "dek": "Gaps on the Map recorre la costa atlántica de la mano de surfistas, un biólogo marino y un shaper. La película de Jamie Hancock mira también lo que ocurre fuera del agua.",
+      "body": [
+        "Hay pocos países tan fáciles de reconocer en una película de surf como Portugal. Nazaré, la costa del Algarve y ese Atlántico tan cambiante ya han protagonizado miles de imágenes. La nueva producción de O’Neill, Gaps on the Map, presentada el 1 de noviembre, intenta contar algo más que una sucesión de sesiones espectaculares.",
+        "Jamie Hancock sigue a surfistas y a personas cuyo trabajo depende de la relación con el mar. Nuno Alves combina la fotografía con la biología marina; Nick Urrichio participó en la creación de Semente Surfboards; João de Macedo conoce de primera mano las olas grandes y los proyectos de conservación oceánica. No miran la costa de la misma forma, y ahí está buena parte del interés.",
+        "La película se mueve entre lugares muy conocidos y otros menos transitados. En vez de vender una nueva ruta de surf perfecta, se detiene en la gente, los oficios y las comunidades que sostienen esa cultura. Las olas siguen ahí, pero no tienen que explicarlo todo.",
+        "El circuito de proyecciones Around the Waves incluye sesiones en Francia, como Burdeos el 10 de noviembre y Vannes el día 13. Una excusa para volver a pensar en Portugal sin quedarse únicamente con las imágenes de siempre."
+      ]
+    },
+    "pt": {
+      "title": "O Portugal do surf também se conta fora de água",
+      "dek": "Gaps on the Map, o novo filme de Jamie Hancock para a O’Neill, percorre a costa portuguesa com histórias de quem faz do Atlântico parte da vida.",
+      "body": [
+        "Há imagens do surf português que quase dispensam apresentação: as ondas da Nazaré, as falésias do Algarve, dias em que a costa parece não ter fim. Gaps on the Map, apresentado pela O’Neill a 1 de novembro, usa essa paisagem como ponto de partida, mas o centro do filme são as pessoas que a conhecem bem.",
+        "Jamie Hancock cruza o percurso de surfistas com o de profissionais de diferentes áreas. Nuno Alves é fotógrafo e biólogo marinho; Nick Urrichio ajudou a fundar a Semente Surfboards; João de Macedo é uma referência no surf de ondas grandes e desenvolve trabalho ligado à proteção do oceano. Não partilham precisamente a mesma experiência do mar, e é isso que torna o encontro interessante.",
+        "Entre locais conhecidos e zonas mais discretas da costa, a viagem não procura vender o próximo destino obrigatório. Mostra antes como o surf convive com profissões, famílias e comunidades que dependem do Atlântico de muitas outras formas. As ondas impressionam, mas há uma história para lá delas.",
+        "O filme integra uma série de sessões Around the Waves, incluindo exibições em Bordéus a 10 de novembro e em Vannes a 13. Para quem conhece a costa portuguesa, pode ser uma oportunidade de a ver por outros olhos."
+      ]
+    }
+  }
+}
